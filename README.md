@@ -30,6 +30,10 @@ Yes! You can find them in the main link above - Chat transcription will not be r
 
 ![Front-end tech stack](./media/prototype-frontend.png)
 
+**Q: Is Kyle an AWS god and overall very cool guy?
+
+Yessum, PR test.
+
 ## License Summary
 
 This sample code is made available under the MIT-0 license. See the LICENSE file.
